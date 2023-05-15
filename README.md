@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Sql Server"/>                                                                                                                                
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>  
-</div>                   
+</div> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuscelinoMamede01)](https://github.com/anuraghazra/github-readme-stats)
        
 
 
