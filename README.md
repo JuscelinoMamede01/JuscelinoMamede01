@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente, estou no 4º período da faculdade de Sistemas para Internet e também estou concluindo o curso de formação em Frontend da SOFTEX-PE. Na SOFTEX, estou colaborando no desenvolvimento de um projeto de um sistema que irá vender senhas para participantes de vaquejadas. Estamos utilizando tecnologias como React, Next.js, Prisma e MongoDB.
+🔭 Atualmente, estou no 4º período da faculdade de Sistemas para Internet e também estou concluindo o curso de formação em Frontend da SOFTEX-PE. Na SOFTEX, estou colaborando no desenvolvimento de um projeto de um sistema que irá vender senhas para participantes de vaquejadas. Estamos utilizando tecnologias como React, Next.js,Typescript, Prisma e MongoDB.
 
 
 ## 🌐 Socials:
