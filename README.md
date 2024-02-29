@@ -1,6 +1,5 @@
 # 💫 About me:
-🔭 Currently, I am in the 4th semester of my Internet Systems degree and I am also finishing the Frontend training course at SOFTEX-PE. At SOFTEX, I am collaborating on the development of a system that will sell tickets for participants in rodeos. We are using technologies such as React, Next.js, Typescript, Prisma and MongoDB.
-
+🔭 Currently, I am in the 4th semester of my Associate Degree in Web Systems. I recently completed the Frontend Developer course at SOFTEX-PE. I am excited and grateful for the opportunity to continue learning and growing as a Frontend Developer Resident sponsored by SOFTEX-PE.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juscelinomamede/) 
