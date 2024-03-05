@@ -1,6 +1,10 @@
 # 💫 About me:
 🔭 Currently, I am in the 4th semester of my Associate Degree in Web Systems. I recently completed the Frontend Developer course at SOFTEX-PE. I am excited and grateful for the opportunity to continue learning and growing as a Frontend Developer Resident sponsored by SOFTEX-PE.
 
+## 🖥️ My portfolio
+![Click here](https://juscelinomamede.vercel.app/)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juscelinomamede/) 
 
