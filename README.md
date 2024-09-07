@@ -1,5 +1,5 @@
 ## 💫 About me:
-🔭 Currently, I am in the 4th semester of my Degree in Web Systems. Recently, I completed the Frontend Developer course at SOFTEX-PE. I am excited and grateful for the opportunity to continue learning and growing as a Frontend Developer Resident sponsored by SOFTEX-PE.
+🔭 I have a degree in Web Development and I am currently focused on studying and working on personal projects. I am seeking job opportunities where I can apply my technical skills, further develop my abilities, and contribute to challenging and innovative projects.
 
 ## 🖥️ My portfolio
 - [Click here](https://juscelinomamede.vercel.app/).
