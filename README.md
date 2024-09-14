@@ -1,5 +1,5 @@
 ## 💫 About me:
-🔭 I have a degree in Web Development and I am currently focused on studying and working on personal projects. I am seeking job opportunities where I can apply my technical skills, further develop my abilities, and contribute to challenging and innovative projects.
+🔭 I have a degree in Web Development and I am currently focused on my postgraduate degree in Full Stack Development and Cloud Computing.
 
 ## 🖥️ My portfolio
 - [Click here](https://juscelinomamede.vercel.app/).
