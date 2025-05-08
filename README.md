@@ -1,5 +1,5 @@
 ## 💫 About me:
-🔭 I have a degree in Web Development and I am currently focused on my postgraduate degree in Full Stack Development and Cloud Computing.
+🔭 I'm a Jr Front-end developer at TrainUp.com(USA). I have a degree in Web Development and I am currently focused on my postgraduate degree in Full Stack Development and Cloud Computing.
 
 ## 🖥️ My portfolio
 - [Click here](https://juscelinomamede.vercel.app/).
